@@ -1,19 +1,17 @@
-   # **👋 Hi, I’m Cindy Chen**
+# **👋 Hi, I’m Cindy Chen**
 
-- 👀 Passionate about leveraging data to drive real world business insights.
-  
-- 🌱 I’m currently learning Machine Learning, Natural Language Processing..
-  
-- 💞️ I’m looking to collaborate on Data Science Project
-  
-- 📫 How to reach me Cindy23mtcvv@gmail.com.
-  
-- 😄 Start to make friends and talk here: [LinkedIn](https://www.linkedin.com/in/cindy-chen) | [Ins](cindy.zz8)
+- 🎓 UTS Master of Data Science and Innovation graduate, with academic project experience in **Machine Learning, Natural Language Processing, and Deep Learning**.
 
-****
-WELCOME TO MY FLOWER 💐💐 WORLD 
+- 📊 I now specialise in real-world **data analytics projects** and **data engineering** — turning data into practical business decisions.
 
-<!---
-cindychan8/cindychan8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ☁️ I work with **AWS, Azure, Snowflake, Tableau, and Power BI**.
+
+- 💌 Reach out via [email](mailto:cindychen08.data@gmail.com).
+
+- 🤝 Always happy to connect and exchange ideas on [LinkedIn](https://www.linkedin.com/in/-cindy/).
+
+- 🐶 Outside work, I love dogs, archery, and discovering good food.
+
+***
+
+## WELCOME TO MY LITTLE WORLD 💐
