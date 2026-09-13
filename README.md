@@ -6,7 +6,7 @@
 
 - ☁️ I work with **AWS, Azure, Snowflake, Tableau, and Power BI**.
 
-- 💌 Reach out via [email](mailto:cindychen08.data@gmail.com).
+- 💌 Reach out via [cindychen08.data@gmail.com](mailto:cindychen08.data@gmail.com).
 
 - 🤝 Always happy to connect and exchange ideas on [LinkedIn](https://www.linkedin.com/in/-cindy/).
 
